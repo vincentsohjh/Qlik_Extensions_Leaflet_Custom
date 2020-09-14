@@ -1,0 +1,9 @@
+{
+	"name": "leaflet-cluster",
+	"description": "leaflet cluster extension",
+	"icon": "map",
+	"type": "visualization",
+	"version": 1.02,
+	"preview": "Cluster map",
+	"author": "(c) Vincent Soh 2020 (c) Yves Blake 2014-2015"
+}
